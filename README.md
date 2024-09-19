@@ -24,7 +24,8 @@
 
 * [BBB](https://bbb.psaa.ru/rooms/l2z-d0s-9am-bdi/join)  
 * [BBB6](https://bbb6.psaa.ru/b/qt6-06w-o09-6wz)  
-* [Доска для рисования](https://jamboard.google.com/d/1xmh7Mrc_nAR3PmstdYa9nYTs9L2-kh0dS6ZtaswkQZU/edit?usp=sharing)  
+* [Доска для рисования Yandex](https://boards.yandex.ru/whiteboard/?hash=fddc440dbd7996bf9be50478edafcd4f)  
+* [Доска для рисования Google](https://jamboard.google.com/d/1xmh7Mrc_nAR3PmstdYa9nYTs9L2-kh0dS6ZtaswkQZU/edit?usp=sharing)  
 * [Google Colab](https://colab.research.google.com/drive/1Ip_2tQ3MZDehmYG36aAHPFj_msrPgJCt?usp=sharing)  
 
 ### Анкетирование и Тестирование:  
@@ -53,6 +54,8 @@
 3. [Документация по библиотеке Turtle](https://docs-python.ru/standart-library/modul-turtle/)  
 
 ---  
+
+> Узнать номер версии Питона: `python -V`  
 
 ## Базовые команды и функции  
 
