@@ -1,14 +1,14 @@
 # ege-24-25
 
-ЕГЭ Информатика и ИКТ  
+## ЕГЭ Информатика и ИКТ  
 
 ### БЕЛЯКОВ Андрей Юрьевич  
 
 ```txt  
 Расписание пар:  
-10:00 - 11:30  
-11:45 - 13:15  
-13:20 - 14:50  
+10:00 - 11:30 (с перерывом 5 минут)  
+11:45 - 13:15 (с перерывом 5 минут)  
+13:20 - 14:50 (с перерывом 5 минут)  
 ``` 
 
 [Наши планы](https://docs.google.com/spreadsheets/d/1Kw0XZmMWeDn3DAlK7mHgJYqDovw2AngaE7qRtOuJhSY/edit?usp=sharing) | [ДНИ ЗАНЯТИЙ](days.md) | [Карта знаний](knowledge-map.md)  
@@ -24,6 +24,8 @@
 
 * [BBB](https://bbb.psaa.ru/rooms/l2z-d0s-9am-bdi/join)  
 * [BBB6](https://bbb6.psaa.ru/b/qt6-06w-o09-6wz)  
+
+### Инструменты для дистанционных занятий:  
 * [Доска для рисования Yandex](https://boards.yandex.ru/whiteboard/?hash=fddc440dbd7996bf9be50478edafcd4f)  
 * [Доска для рисования Google](https://jamboard.google.com/d/1xmh7Mrc_nAR3PmstdYa9nYTs9L2-kh0dS6ZtaswkQZU/edit?usp=sharing)  
 * [Google Colab](https://colab.research.google.com/drive/1Ip_2tQ3MZDehmYG36aAHPFj_msrPgJCt?usp=sharing)  
@@ -43,9 +45,13 @@
 6) [Среда разработки **PyCharm** Community](https://www.jetbrains.com/ru-ru/pycharm/download/)  
 7) [Online Среда разработки Replit](https://replit.com/)  
 8) [**Google Colab** for Python](https://colab.research.google.com/)  
-9) [Учебная доска](https://jamboard.google.com/)  
+9) [для показа и передачи Кода программ pastebin](https://pastebin.com/)  
+
+---  
+
+уже не актуально:  
+
 10) [КУМИР](https://www.niisi.ru/kumir/dl.htm)  
-11) https://pastebin.com/  
 
 Дополнительно рекомендую:  
 
@@ -55,11 +61,13 @@
 
 ---  
 
+### Базовый минимум по Питону:  
+
 > Узнать номер версии Питона: `python -V`  
 
-## Базовые команды и функции  
+### Базовые команды и функции  
 
-### 1 Консоль: ввод-вывод  
+#### 1 Консоль: ввод-вывод  
 
 - считать с клавиатуры строку  
 `s = input()`  
@@ -81,7 +89,7 @@ print("count =", count)
 print(f"count = {count}")
 ```
 
-### 2 Файл: чтение из файла  
+#### 2 Файл: чтение из файла  
 
 ```py
 # прочитать все строки из файла и вывести список строк  
@@ -106,5 +114,6 @@ for line in open("filename.txt"):
 print(f"sm = {sm}")
 ```
 
-### 3
+#### 3
 
+---  
