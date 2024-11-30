@@ -3,9 +3,9 @@ def f(A, x, y):
 
 
 def check(A):
-    for x in range(1, 100):
-        for y in range(1, 100):
-            if f(A, x//5, y//5) == False:
+    for x in range(1, 300):
+        for y in range(1, 300):
+            if f(A, x/11, y/11) == False:
                 return False
     return True
 
