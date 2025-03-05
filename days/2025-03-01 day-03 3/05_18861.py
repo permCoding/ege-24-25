@@ -14,5 +14,5 @@ for n in range(4, 200):
         t = '1' + t
     r = int(t, 3)
     if r > 130:
-        print(n, r)
+        print(n, r)  # 30 192
         break

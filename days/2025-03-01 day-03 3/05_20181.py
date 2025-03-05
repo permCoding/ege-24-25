@@ -8,5 +8,5 @@ for n in range(1, 1_000):
     r = int(b, 2)
 
     if r > 350:
-        print(n, r)
+        print(n, r)  # 17 397
         break
