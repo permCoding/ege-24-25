@@ -1,8 +1,10 @@
-f = open('./26_21421.txt')
+f = open('./26_21424.txt')
 n = int(f.readline())
 nums = sorted(int(s) for s in f)
+nums = nums[::-1]
 
-k = 0
 t = [nums[0]]
-for e in t[1:]:
-    pass
+for e in nums[1:]:
+    if t[-1] - e >= 9:
+        t += [e]
+print(len(t), t[-1])
