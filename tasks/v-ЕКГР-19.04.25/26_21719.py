@@ -19,4 +19,4 @@ for i in range(1, len(t)):
         a, b = t[i][0], t[i][1]
         k = 1
 
-print(s, m)
+print(s, m)  # 10135 42
