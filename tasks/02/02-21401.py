@@ -4,4 +4,4 @@ for x in 0,1:
             for w in 0,1:
                 f = x and (z <= w) and (not(y))
                 if f == True:
-                    print(x,w,z,y)  # w_z_
+                    print(x,w,z,y)  # xwzy
