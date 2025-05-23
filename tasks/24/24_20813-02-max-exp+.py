@@ -10,4 +10,4 @@ mx_len = 0
 for match in finditer(exp, s):  # совпадения
     mx_len = max(mx_len, len(match.group()))
 
-print(mx_len)
+print(mx_len)  # 111

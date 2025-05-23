@@ -1,6 +1,6 @@
 s = open('./24_20909.txt').readline().replace('AB', '#')
-# s = 'AABAAABAB'.replace('AB', '#')
-g = 100
+s = 'ABABFFAB'.replace('AB', '#')
+g = 3 # 100
 t = []
 l, k = 0, 0
 for r in range(0, len(s)):

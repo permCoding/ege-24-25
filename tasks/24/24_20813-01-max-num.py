@@ -1,6 +1,7 @@
 from re import finditer
 
 s = '**9*7**97-890987-89978909-97079**-0*99'
+s = open('./24_20813.txt').readline()
 
 num = r'(0|[789][0789]*)'
 
